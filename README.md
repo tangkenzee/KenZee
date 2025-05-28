@@ -1,2 +1,2 @@
-# EP1000
-this is a documentation of ep1000
+# Ken Zee Home Page
+This is a simple webpage about me!
